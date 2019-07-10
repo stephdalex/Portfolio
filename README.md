@@ -1,2 +1,2 @@
 # Portfolio
-A collection of Data Science Projects from UCI
+A collection of Data Science projects from UCI
